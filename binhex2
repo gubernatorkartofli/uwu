@@ -1,0 +1,33 @@
+0 1
+1001
+qinit, #, qinit, #, >
+qinit, 0, qz, 0, >
+qinit, 1, qj, #, >
+qj, 1, qjj, #, >
+qj, 0, qj0, #, >
+qz, 1, qzj, #, >
+qz, 0, qzz, #, >
+qjj, 1, qjjj, #, > 
+qjj, 0, qjjz, #, >
+qzj, 1, qzjj, #, >
+qzj, 0, qzjz, #, >
+qzz, 1, qzzj, #, >
+qzz, 0, qzzz, #, >
+qjz, 1, qjzj, #, >
+qjz, 0, qjzz, #, > 
+qjjj, 1, qinit,F, > 
+qjjj, 0, qinit, E, >
+qjjz, 1, qinit, D, >
+qjjz, 0, qinit, C, >
+qjzj, 1, qinit, B, >
+qjzj, 0, qinit, A, >
+qjzz, 1, qinit, 9, >
+qjzz, 0, qinit, 8, >
+qzjj, 1, qinit, 7, >
+qzjj, 0, qinit, 6, >
+qzjz, 1, qinit, 5, >
+qzjz, 0, qinit, 4, >
+qzzj, 1, qinit, 3, >
+qzzj, 0, qinit, 2, >
+qzzz, 1, qinit, 1, >
+qzzz, 0, qinit, 0, >
